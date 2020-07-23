@@ -67,7 +67,6 @@ def main():
     cat_content += "\n"
     
     recent_tils.sort(reverse=True, key=lambda a: a['date'])
-    # recent_content = ""
     recent_content += "| **5 Most Recent TILs** | :tada: |\n| -------- | -------- |\n"
     for til in recent_tils[0:5]:
         recent_content += f"| [{til['title']}]({til['category']}/{til['file_name']}) [{til['category']}] | {til['date'].strftime('%Y-%m-%d')} |\n"  
