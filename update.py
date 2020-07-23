@@ -22,7 +22,6 @@ Placeholder
 """
 
 FOOTER="""\
-Placeholder
 
 ## ToDo
 
