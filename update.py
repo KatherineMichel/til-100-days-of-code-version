@@ -27,6 +27,7 @@ FOOTER="""\
 
 * Add `parse_til()` notes to program_notes.py
 * Fill in header and footer
+* Add total TILs
 * Humanize "Tils" plural
 * Create GitHub template
 """
