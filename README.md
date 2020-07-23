@@ -15,7 +15,6 @@ Placeholder
 | 2. [Lala](til/lala.md) | 2020-07-21 |
 | 3. [Another Test](til/another_test.md) | 2020-07-22 |
 
-Placeholder
 
 ## ToDo
 
