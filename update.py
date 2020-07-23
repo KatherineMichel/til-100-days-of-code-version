@@ -24,6 +24,12 @@ Placeholder
 FOOTER="""\
 Placeholder
 
+## ToDo
+
+* Add `parse_til()` notes to program_notes.py
+* Fill in header and footer
+* Humanize "Tils" plural
+* Create GitHub template
 """
 
 def main():
