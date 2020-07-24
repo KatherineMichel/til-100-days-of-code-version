@@ -49,7 +49,7 @@ def main():
         dir
         # for dir in os.listdir(root)
         for dir in os.scandir(root)
-        if os.path.isdir(dir) and dir not in excludes and not dir.startswith(".")
+        # if os.path.isdir(dir) and dir not in excludes and not dir.startswith(".")
     ]
     categories.sort()
 
