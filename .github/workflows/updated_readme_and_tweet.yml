@@ -23,6 +23,7 @@ jobs:
     - uses: actions/cache@v2
       name: Configure pip caching
       with:
+        # Enable pip caching
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
@@ -42,10 +43,12 @@ jobs:
       # Run the program        
       run: python update.py
     - name: Commit new README.md
+      # Provide git credentials and commit the updated README.md
       run: |
         git config --local user.email "kthrnmichel@gmail.com"
         git config --local user.name "KatherineMichel"
         git commit -am "Update README.md"
+    # Push the changes, using GitHub Push Action, and a GITHUB_TOKEN
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
