@@ -43,8 +43,9 @@ def main():
 
     root = "."
 
-    excludes = ["archive", "drafts"]
-
+    # excludes = ["archive", "drafts"]
+    excludes = [root, "archive", "drafts"]
+    
     categories = [
         dir
         # for dir in os.listdir(root)
