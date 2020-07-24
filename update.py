@@ -73,13 +73,13 @@ def main():
         # for file in os.listdir(os.path.join(root, cat)):
         for file in os.scandir(os.path.join(root, cat)):
             if file.endswith((".md")):
-            raw = read_files(os.path.join(root, cat, file))
-            parts = raw.split("/---/")
-            for part in parts:
-                til = parse_til(part.strip(), cat)
-                til["file_name"] = file
-                cat_tils.append(til)
-                recent_tils.append(til)
+                raw = read_files(os.path.join(root, cat, file))
+                parts = raw.split("/---/")
+                for part in parts:
+                    til = parse_til(part.strip(), cat)
+                    til["file_name"] = file
+                    cat_tils.append(til)
+                    recent_tils.append(til)
 
         cat_tils.sort(key=lambda a: a["date"])
         cat_content += f"| **{cat.capitalize()}** [ {len(cat_tils)} Tils ] | |\n"
