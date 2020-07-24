@@ -43,8 +43,7 @@ def main():
 
     root = "."
 
-    # excludes = ["archive", "drafts"]
-    excludes = [root, "archive", "drafts"]
+    excludes = ["archive", "drafts"]
     
     categories = [
         dir
@@ -73,6 +72,7 @@ def main():
         cat_tils = []
         # for file in os.listdir(os.path.join(root, cat)):
         for file in os.scandir(os.path.join(root, cat)):
+            if file.endswith((".md")):
             raw = read_files(os.path.join(root, cat, file))
             parts = raw.split("/---/")
             for part in parts:
