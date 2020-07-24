@@ -47,7 +47,8 @@ def main():
 
     categories = [
         dir
-        for dir in os.listdir(root)
+        # for dir in os.listdir(root)
+        for dir in os.scandir(root)
         if os.path.isdir(dir) and dir not in excludes and not dir.startswith(".")
     ]
     categories.sort()
@@ -67,7 +68,8 @@ def main():
 
     for cat in categories:
         cat_tils = []
-        for file in os.listdir(os.path.join(root, cat)):
+        # for file in os.listdir(os.path.join(root, cat)):
+        for file in os.scandir(os.path.join(root, cat)):
             raw = read_files(os.path.join(root, cat, file))
             parts = raw.split("/---/")
             for part in parts:
