@@ -51,7 +51,7 @@ def main():
         for dir in os.scandir(root)
         # if os.path.isdir(dir) and dir not in excludes and not dir.startswith(".")
     ]
-    categories.sort()
+    # categories.sort()
 
     content = ""
 
