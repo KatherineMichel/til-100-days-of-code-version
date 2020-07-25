@@ -99,7 +99,7 @@ def main():
 
     status = recent_tils[0]["status"]
 
-    tweet = status + " (auto-tweeted by TIL bot)"
+    tweet = status + " (auto-tweeted by my TIL bot)"
     print(tweet)
     # twitter.update_status(status=tweet)
 
