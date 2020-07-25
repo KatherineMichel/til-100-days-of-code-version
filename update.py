@@ -18,7 +18,7 @@ twitter = Twython(
 HEADER = """\
 # TIL- 100 Days of Code Version
 
-Placeholder
+See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 """
 
 FOOTER = """\
@@ -35,7 +35,7 @@ FOOTER = """\
 
 This project is adapted from a [Today I Learned](https://github.com/khanhicetea/today-i-learned/) project by [@khanhicetea](https://github.com/khanhicetea), distributed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/). 
 
-See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information about the [changes I made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made).
+See the [program_information.py](program_information.py) file for information about the changes I made.
 """
 
 
