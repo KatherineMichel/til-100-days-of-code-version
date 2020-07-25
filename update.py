@@ -101,7 +101,7 @@ def main():
 
     tweet = status
     print(tweet)
-    twitter.update_status(status=tweet)
+    # twitter.update_status(status=tweet)
 
 
 def read_files(file_path):
