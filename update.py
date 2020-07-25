@@ -25,7 +25,7 @@ FOOTER = """\
 
 ## ToDo
 
-* Add `parse_til()` notes to program_notes.py
+* Add `parse_til()` notes to [program_information.py](program_information.py)
 * Fill in header and footer
 * Add total TILs
 * Humanize "Tils" plural
