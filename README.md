@@ -4,13 +4,11 @@ Placeholder
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
 | [Another Test](til/another_test.md) [til] | 2020-07-22 |
-| [Lala](til/lala.md) [til] | 2020-07-21 |
 
 | **By Category** | :books: |
 | -------- | -------- |
-| **Til** [ 2 Tils ] | |
-| 1. [Lala](til/lala.md) | 2020-07-21 |
-| 2. [Another Test](til/another_test.md) | 2020-07-22 |
+| **Til** [ 1 Tils ] | |
+| 1. [Another Test](til/another_test.md) | 2020-07-22 |
 
 
 ## ToDo
