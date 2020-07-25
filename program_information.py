@@ -1,4 +1,27 @@
 '''
+Major changes I made:
+* Rather than making updates through an editor locally, updates will be made in the browser
+* Instead of using a `README.md.template`, all of the content is generated directly into the README.md from update.py
+* Moved the content creation part of the program out of functions and into `main()`, leaving `read_file()` and `parse_til()` functions
+* Created `HEADER` and `FOOTER` variables assigned to multiline, triple-double-quote strings
+* Changed the formatting to f-strings
+* Added newlines to break the markdown table into two sections and create a footer
+* Implemented [Twython](https://twython.readthedocs.io/), including adding secret tokens accessed via the GitHub Action
+* Added a `status` variable to the `post` dictionary and passed it into Twython to auto-tweet a status update
+* Implemented a GitHub Action to run the script when a commit is made
+* Formatted update.py file using [Black](https://black.readthedocs.io/)
+
+Minor changes I made:
+* `codecs` and `json` were removed, because they were unnecessary for my approach
+* Changed some variable names to make the meaning more clear
+* Changed `cwd` to `"."`
+* Altered the excluded directories
+* Excluded dotfiles from within the `categories` variable
+* Changed the markdown header text and emojis; capitalized the category names
+* Created a `recent_content` string
+'''
+
+'''
 Program Notes
 Import the Python standard libraries needed to run the code
 Import the third-party libraries needed to run the code
