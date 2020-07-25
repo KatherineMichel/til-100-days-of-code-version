@@ -3,12 +3,12 @@
 Placeholder
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
-| [Another Test](til/another_test.md) [til] | 2020-07-22 |
+| [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) [til] | 2020-07-24 |
 
 | **By Category** | :books: |
 | -------- | -------- |
 | **Til** [ 1 Tils ] | |
-| 1. [Another Test](til/another_test.md) | 2020-07-22 |
+| 1. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
 
 
 ## ToDo
