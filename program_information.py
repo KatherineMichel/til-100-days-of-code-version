@@ -1,4 +1,6 @@
 '''
+Changes I Made
+
 Major changes I made:
 * Rather than making updates through an editor locally, updates will be made in the browser
 * Instead of using a `README.md.template`, all of the content is generated directly into the README.md from update.py
@@ -23,6 +25,7 @@ Minor changes I made:
 
 '''
 Program Notes
+
 Import the Python standard libraries needed to run the code
 Import the third-party libraries needed to run the code
 Pass the environment variables into Twython to be used to authenticate into Twitter and tweet
