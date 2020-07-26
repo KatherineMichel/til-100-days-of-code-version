@@ -1,4 +1,12 @@
 '''
+ToDo
+
+* Add `parse_til()` notes to [program_information.py](program_information.py)
+* Fill in header and footer
+* Add total TILs
+* Humanize "Tils" plural
+* Create GitHub template
+
 Changes I Made
 
 Major changes I made:
