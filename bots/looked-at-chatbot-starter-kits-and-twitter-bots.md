@@ -4,7 +4,7 @@
 
 ## Looked at Chatbot Starter Kits and Twitter Bots
 
-I looked at chatbot-starter-kits, including Hubot and Howdy AI bot kit. 
+I looked at chatbot starter kits, including Hubot and Howdy AI bot kit. 
 
 For the most part, these were made using node. Not sure why I didn't see a Python starter kit.
 
