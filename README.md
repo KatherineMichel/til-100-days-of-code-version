@@ -3,30 +3,31 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Started Working on a Twitter Search Bot](bots/started-working-on-a-tweet-search-bot.md) [bots] | 2020-08-14 |
 | [Thought Through Dashboard Design Possibilities](dashboard/thought-through-dashboard-design-possibilities.md) [dashboard] | 2020-08-12 |
 | [Learned How Bots That Can Reply to Mentions Work](bots/learned-how-bots-that-can-reply-to-mentions-work.md) [bots] | 2020-08-10 |
 | [Worked on Twitter Bot to Send Thank You DMs](bots/worked-on-a-twitter-bot-to-send-thank-you-dms.md) [bots] | 2020-08-06 |
 | [Looked at Chatbot Starter Kits and Twitter Bots](bots/looked-at-chatbot-starter-kits-and-twitter-bots.md) [bots] | 2020-08-03 |
-| [Looked Through API Docs of Services I Use Often](api/looking-through-api-docs-of-services-i-use-often.md) [api] | 2020-08-02 |
 
 | **By Category** | :books: |
 | -------- | -------- |
 | **Api** [ 1 Tils ] | |
 | 1. [Looked Through API Docs of Services I Use Often](api/looking-through-api-docs-of-services-i-use-often.md) | 2020-08-02 |
-| **Bots** [ 3 Tils ] | |
+| **Bots** [ 4 Tils ] | |
 | 2. [Looked at Chatbot Starter Kits and Twitter Bots](bots/looked-at-chatbot-starter-kits-and-twitter-bots.md) | 2020-08-03 |
 | 3. [Worked on Twitter Bot to Send Thank You DMs](bots/worked-on-a-twitter-bot-to-send-thank-you-dms.md) | 2020-08-06 |
 | 4. [Learned How Bots That Can Reply to Mentions Work](bots/learned-how-bots-that-can-reply-to-mentions-work.md) | 2020-08-10 |
+| 5. [Started Working on a Twitter Search Bot](bots/started-working-on-a-tweet-search-bot.md) | 2020-08-14 |
 | **Dashboard** [ 1 Tils ] | |
-| 5. [Thought Through Dashboard Design Possibilities](dashboard/thought-through-dashboard-design-possibilities.md) | 2020-08-12 |
+| 6. [Thought Through Dashboard Design Possibilities](dashboard/thought-through-dashboard-design-possibilities.md) | 2020-08-12 |
 | **Projects** [ 1 Tils ] | |
-| 6. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| 7. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 1 Tils ] | |
-| 7. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 8. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
 | **Til** [ 3 Tils ] | |
-| 8. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 9. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 10. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 9. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 10. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 11. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
