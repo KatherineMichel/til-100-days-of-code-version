@@ -1,7 +1,6 @@
 '''
 ToDo
 
-* Add `parse_til()` notes to [program_information.py](program_information.py)
 * Fill in header and footer
 * Add total TILs
 * Humanize "Tils" plural
@@ -53,11 +52,13 @@ Append the category markdown header to the `cat_content` string
 Iterate through each category in the `categories` list
 Create a `cat_tils` variable and assign it to an empty list; `tils` will be added to this and sorted by oldest first
 Iterate through the files in each category, joining the root and category together as the path
-Assigning the variable `raw` to each file, call the `read_files()` function on the file, joining the root, category, and file together as the path
+Assigning the variable `raw` to each file, call the `read_files()` function on the file, joining the root, category, and file together as the `file_path`
+Pass each `file_path` into `read_files()`, open the file and read it
 Split the file up into parts
 Iterate through each part in parts
 Assigning the variable `til` to each part, call the `parse_til()` function on the part, stripping whitespace, and passing in category
-Assign the file variable name to the `til` file name
+Parse each file, creating a dictionary of variables that is returned as a `til`
+Assign the `file` variable name to the `til` file name
 Append each `til` to the `cat_tils` list
 Append each `til` to the `recent_tils` list
 Sort `tils` in `cat_tils` by date, oldest first
@@ -77,9 +78,6 @@ Append the footer to the `content` string
 Open the README.md file and write the `content` into the README.md
 Assign the `status` variable to the `status` variable of the first `til` in the `recent_tils` list
 Call the `tweet()` function, passing in the status
-read_files() function... passing in the file `file_path`, open up the file and read it
-
-
 Assign the `tweet` variable to the `status` variable
 Use Twython library to tweet the `status` update
 '''
