@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) [miscellaneous] | 2020-08-30 |
 | [Working Through Code in Django Books](django/working-through-code-in-django-books.md) [django] | 2020-08-27 |
 | [Started Using LeetCode](leetcode/started-using-leetcode.md) [leetcode] | 2020-08-25 |
 | [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) [javascript] | 2020-08-24 |
 | [Week of Rest](rest/week-of-rest.md) [rest] | 2020-08-22 |
-| [Got My Twitter Search Bot Fetching Tweets and Researched Sentiment Analysis](bots/got-my-twitter-search-bot-fetching-tweets-and-researched-sentiment-analysis.md) [bots] | 2020-08-15 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -27,16 +27,18 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 9. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
 | **Leetcode** [ 1 Tils ] | |
 | 10. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
+| **Miscellaneous** [ 1 Tils ] | |
+| 11. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
 | **Projects** [ 1 Tils ] | |
-| 11. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| 12. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 1 Tils ] | |
-| 12. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 13. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
 | **Rest** [ 1 Tils ] | |
-| 13. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 14. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
 | **Til** [ 3 Tils ] | |
-| 14. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 15. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 16. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 15. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 16. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 17. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
