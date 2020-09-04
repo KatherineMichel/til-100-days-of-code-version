@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) [react] | 2020-09-03 |
 | [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) [react] | 2020-09-02 |
 | [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) [miscellaneous] | 2020-08-30 |
 | [Working Through Code in Django Books](django/working-through-code-in-django-books.md) [django] | 2020-08-27 |
 | [Started Using LeetCode](leetcode/started-using-leetcode.md) [leetcode] | 2020-08-25 |
-| [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) [javascript] | 2020-08-24 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -33,14 +33,15 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 12. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 1 Tils ] | |
 | 13. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
-| **React** [ 1 Tils ] | |
+| **React** [ 2 Tils ] | |
 | 14. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
+| 15. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
 | **Rest** [ 1 Tils ] | |
-| 15. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 16. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
 | **Til** [ 3 Tils ] | |
-| 16. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 17. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 18. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 17. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 18. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 19. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
