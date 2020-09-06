@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Finished Django Crash Course Every Cheese Exercise](django/finished-django-crash-course-every-cheese-exercise.md) [django] | 2020-09-06 |
 | [Working Through Django Crash Course Every Cheese Exercise](django/working-through-django-crash-course-every-cheese-exercise.md) [django] | 2020-09-05 |
 | [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) [react] | 2020-09-04 |
 | [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) [react] | 2020-09-03 |
 | [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) [react] | 2020-09-02 |
-| [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) [miscellaneous] | 2020-08-30 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -21,29 +21,30 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 6. [Got My Twitter Search Bot Fetching Tweets and Researched Sentiment Analysis](bots/got-my-twitter-search-bot-fetching-tweets-and-researched-sentiment-analysis.md) | 2020-08-15 |
 | **Dashboard** [ 1 Tils ] | |
 | 7. [Thought Through Dashboard Design Possibilities](dashboard/thought-through-dashboard-design-possibilities.md) | 2020-08-12 |
-| **Django** [ 2 Tils ] | |
+| **Django** [ 3 Tils ] | |
 | 8. [Working Through Code in Django Books](django/working-through-code-in-django-books.md) | 2020-08-27 |
 | 9. [Working Through Django Crash Course Every Cheese Exercise](django/working-through-django-crash-course-every-cheese-exercise.md) | 2020-09-05 |
+| 10. [Finished Django Crash Course Every Cheese Exercise](django/finished-django-crash-course-every-cheese-exercise.md) | 2020-09-06 |
 | **Javascript** [ 1 Tils ] | |
-| 10. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
+| 11. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
 | **Leetcode** [ 1 Tils ] | |
-| 11. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
+| 12. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
 | **Miscellaneous** [ 1 Tils ] | |
-| 12. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
+| 13. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
 | **Projects** [ 1 Tils ] | |
-| 13. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| 14. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 1 Tils ] | |
-| 14. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 15. [Looked through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
 | **React** [ 3 Tils ] | |
-| 15. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
-| 16. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
-| 17. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
+| 16. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
+| 17. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
+| 18. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
 | **Rest** [ 1 Tils ] | |
-| 18. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 19. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
 | **Til** [ 3 Tils ] | |
-| 19. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 20. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 21. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 20. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 21. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 22. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
