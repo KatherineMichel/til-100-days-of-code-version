@@ -3,7 +3,7 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
-| [Got to Know the Python Standard Library better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) [python] | 2020-09-07 |
+| [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) [python] | 2020-09-07 |
 | [Finished Django Crash Course Every Cheese Exercise](django/finished-django-crash-course-every-cheese-exercise.md) [django] | 2020-09-06 |
 | [Working Through Django Crash Course Every Cheese Exercise](django/working-through-django-crash-course-every-cheese-exercise.md) [django] | 2020-09-05 |
 | [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) [react] | 2020-09-04 |
@@ -35,7 +35,7 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 14. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 2 Tils ] | |
 | 15. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
-| 16. [Got to Know the Python Standard Library better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
+| 16. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
 | **React** [ 3 Tils ] | |
 | 17. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
 | 18. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
