@@ -2,7 +2,7 @@
 - Tags : #python
 - Status : For #100DaysofCode, I got to know the Python Standard Library better. I also read part of Serious Python. So far, quite a few ideas in the book are familiar to me from Pinax, which is great. Really liked the "Methods and Decorators" chapter.
 
-## Got to Know the Python Standard Library better and Read Serious Python
+## Got to Know the Python Standard Library Better and Read Serious Python
 
 For #100DaysofCode, I got to know the Python Standard Library better. 
 
