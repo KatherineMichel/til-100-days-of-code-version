@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Did Some Regex Crosswords](miscellaneous/did-some-regex-crosswords.md) [miscellaneous] | 2020-09-21 |
 | [Working Through Leetcode Problems](leetcode/working-through-leetcode-probems.md) [leetcode] | 2020-09-20 |
 | [Working Through Two Scoops of Django and Trying Out Django Templates](django/working-through-two-scoops-of-django-and-trying-out-django-templates.md) [django] | 2020-09-16 |
 | [Working Through Two Scoops of Django](django/working-through-two-scoops-of-django.md) [django] | 2020-09-12 |
 | [Solved Code Problems in Python](python/solved-code-problems-in-python.md) [python] | 2020-09-10 |
-| [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) [python] | 2020-09-07 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -32,24 +32,25 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | **Leetcode** [ 2 Tils ] | |
 | 14. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
 | 15. [Working Through Leetcode Problems](leetcode/working-through-leetcode-probems.md) | 2020-09-20 |
-| **Miscellaneous** [ 1 Tils ] | |
+| **Miscellaneous** [ 2 Tils ] | |
 | 16. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
+| 17. [Did Some Regex Crosswords](miscellaneous/did-some-regex-crosswords.md) | 2020-09-21 |
 | **Projects** [ 1 Tils ] | |
-| 17. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| 18. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 3 Tils ] | |
-| 18. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
-| 19. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
-| 20. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
+| 19. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 20. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
+| 21. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
 | **React** [ 3 Tils ] | |
-| 21. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
-| 22. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
-| 23. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
+| 22. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
+| 23. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
+| 24. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
 | **Rest** [ 1 Tils ] | |
-| 24. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 25. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
 | **Til** [ 3 Tils ] | |
-| 25. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 26. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 27. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 26. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 27. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 28. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
