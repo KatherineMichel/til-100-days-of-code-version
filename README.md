@@ -31,7 +31,7 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 13. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
 | **Leetcode** [ 3 Tils ] | |
 | 14. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
-| 15. [Working Through Leetcode Problems](leetcode/working-through-leetcode-probems.md) | 2020-09-20 |
+| 15. [Working Through Leetcode Problems](leetcode/working-through-leetcode-problems.md) | 2020-09-20 |
 | 16. [Did Some LeetCode-Style Python Problems](leetcode/did-some-leetcode-style-python-problems.md) | 2020-10-05 |
 | **Miscellaneous** [ 5 Tils ] | |
 | 17. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
