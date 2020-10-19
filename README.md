@@ -3,7 +3,7 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
-| [Python Standard Library, Real Python, Automate the Boring Stuff](miscellaneous/python-standard-library-real-python-automate-the-boring-stuff.md) [miscellaneous] | 2020-10-15 |
+| [Python Standard Library, Real Python, Automate the Boring Stuff](python/python-standard-library-real-python-automate-the-boring-stuff.md) [python] | 2020-10-15 |
 | [Did a Ton of Stuff](miscellaneous/did-a-ton-of-stuff.md) [miscellaneous] | 2020-10-13 |
 | [Worked Through Python Problems and a Real Python Tutorial](python/worked-through-python-problems-and-a-real-python-tutorial.md) [python] | 2020-10-09 |
 | [Did Some LeetCode-Style Python Problems](leetcode/did-some-leetcode-style-python-problems.md) [leetcode] | 2020-10-05 |
@@ -33,21 +33,21 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 14. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
 | 15. [Working Through Leetcode Problems](leetcode/working-through-leetcode-problems.md) | 2020-09-20 |
 | 16. [Did Some LeetCode-Style Python Problems](leetcode/did-some-leetcode-style-python-problems.md) | 2020-10-05 |
-| **Miscellaneous** [ 5 Tils ] | |
+| **Miscellaneous** [ 4 Tils ] | |
 | 17. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
 | 18. [Did Some Regex Crosswords](miscellaneous/did-some-regex-crosswords.md) | 2020-09-21 |
 | 19. [Spent Time on Virtual Talk and Web Security](miscellaneous/spent-time-on-virtual-talk-and-web-security.md) | 2020-09-27 |
 | 20. [Did a Ton of Stuff](miscellaneous/did-a-ton-of-stuff.md) | 2020-10-13 |
-| 21. [Python Standard Library, Real Python, Automate the Boring Stuff](miscellaneous/python-standard-library-real-python-automate-the-boring-stuff.md) | 2020-10-15 |
 | **Projects** [ 1 Tils ] | |
-| 22. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
-| **Python** [ 6 Tils ] | |
-| 23. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
-| 24. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
-| 25. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
-| 26. [Looked At Real Python Tutorials](python/looked-at-real-python-tutorials.md) | 2020-09-28 |
-| 27. [Completing Some Real Python Project](python/completing-some-real-python-projects.md) | 2020-09-30 |
-| 28. [Worked Through Python Problems and a Real Python Tutorial](python/worked-through-python-problems-and-a-real-python-tutorial.md) | 2020-10-09 |
+| 21. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| **Python** [ 7 Tils ] | |
+| 22. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 23. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
+| 24. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
+| 25. [Looked At Real Python Tutorials](python/looked-at-real-python-tutorials.md) | 2020-09-28 |
+| 26. [Completing Some Real Python Project](python/completing-some-real-python-projects.md) | 2020-09-30 |
+| 27. [Worked Through Python Problems and a Real Python Tutorial](python/worked-through-python-problems-and-a-real-python-tutorial.md) | 2020-10-09 |
+| 28. [Python Standard Library, Real Python, Automate the Boring Stuff](python/python-standard-library-real-python-automate-the-boring-stuff.md) | 2020-10-15 |
 | **React** [ 3 Tils ] | |
 | 29. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
 | 30. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
