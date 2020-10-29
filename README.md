@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Finished Taco John's Scraper blog Post](python/finished-taco-johns-scraper-blog-post.md) [python] | 2020-10-28 |
 | [Scraper Blog Post, Real Python Tutorials, and Project Stuff](python/scraper-blog-post-real-python-tutorials-and-project-stuff.md) [python] | 2020-10-27 |
 | [Mentally Regrouped](miscellaneous/mentally-regrouped.md) [miscellaneous] | 2020-10-26 |
 | [Did More Hacktoberfest Stuff](hacktoberfest/did-more-hacktoberfest-stuff.md) [hacktoberfest] | 2020-10-25 |
 | [Finished Work on My Third Hacktoberfest PR](hacktoberfest/finished-work-on-my-third-hacktoberfest-pr.md) [hacktoberfest] | 2020-10-24 |
-| [Worked on Third Hacktoberfest Issue](hacktoberfest/worked-on-third-hacktoberfest-issue.md) [hacktoberfest] | 2020-10-22 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -47,7 +47,7 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 26. [Mentally Regrouped](miscellaneous/mentally-regrouped.md) | 2020-10-26 |
 | **Projects** [ 1 Tils ] | |
 | 27. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
-| **Python** [ 9 Tils ] | |
+| **Python** [ 10 Tils ] | |
 | 28. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
 | 29. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
 | 30. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
@@ -57,16 +57,17 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 34. [Did a Ton of Stuff](python/did-a-ton-of-stuff.md) | 2020-10-13 |
 | 35. [Python Standard Library, Real Python, Automate the Boring Stuff](python/python-standard-library-real-python-automate-the-boring-stuff.md) | 2020-10-15 |
 | 36. [Scraper Blog Post, Real Python Tutorials, and Project Stuff](python/scraper-blog-post-real-python-tutorials-and-project-stuff.md) | 2020-10-27 |
+| 37. [Finished Taco John's Scraper blog Post](python/finished-taco-johns-scraper-blog-post.md) | 2020-10-28 |
 | **React** [ 3 Tils ] | |
-| 37. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
-| 38. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
-| 39. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
+| 38. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
+| 39. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
+| 40. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
 | **Rest** [ 1 Tils ] | |
-| 40. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 41. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
 | **Til** [ 3 Tils ] | |
-| 41. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 42. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 43. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 42. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 43. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 44. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
