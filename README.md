@@ -3,11 +3,11 @@
 See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) blog post for information.
 | **5 Most Recent TILs** | :tada: |
 | -------- | -------- |
+| [Mozilla CSS, HTMl, JavaScript, APIs Docs](javascript/mozilla-css-html-javascript-apis-docs.md) [javascript] | 2020-11-28 |
 | [Learned About CSS Grid, Flexbox, Tailwind CSS, SVG](design/learned-about-css-grid-flexbox-tailwind-css-svg.md) [design] | 2020-11-26 |
 | [Getting Back to Python/Django Stuff](django/getting-back-to-python-django-stuff.md) [django] | 2020-11-25 |
 | [Getting Back to Projects](python/getting-back-to-projects.md) [python] | 2020-11-12 |
 | [Week of Rest During Election](rest/week-of-rest-during-election.md) [rest] | 2020-11-07 |
-| [Finished Taco John's Scraper blog Post](python/finished-taco-johns-scraper-blog-post.md) [python] | 2020-10-28 |
 
 | **By Category** | :books: |
 | -------- | -------- |
@@ -37,42 +37,43 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 18. [Worked on Third Hacktoberfest Issue](hacktoberfest/worked-on-third-hacktoberfest-issue.md) | 2020-10-22 |
 | 19. [Finished Work on My Third Hacktoberfest PR](hacktoberfest/finished-work-on-my-third-hacktoberfest-pr.md) | 2020-10-24 |
 | 20. [Did More Hacktoberfest Stuff](hacktoberfest/did-more-hacktoberfest-stuff.md) | 2020-10-25 |
-| **Javascript** [ 1 Tils ] | |
+| **Javascript** [ 2 Tils ] | |
 | 21. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
+| 22. [Mozilla CSS, HTMl, JavaScript, APIs Docs](javascript/mozilla-css-html-javascript-apis-docs.md) | 2020-11-28 |
 | **Leetcode** [ 3 Tils ] | |
-| 22. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
-| 23. [Working Through Leetcode Problems](leetcode/working-through-leetcode-problems.md) | 2020-09-20 |
-| 24. [Did Some LeetCode-Style Python Problems](leetcode/did-some-leetcode-style-python-problems.md) | 2020-10-05 |
+| 23. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
+| 24. [Working Through Leetcode Problems](leetcode/working-through-leetcode-problems.md) | 2020-09-20 |
+| 25. [Did Some LeetCode-Style Python Problems](leetcode/did-some-leetcode-style-python-problems.md) | 2020-10-05 |
 | **Miscellaneous** [ 4 Tils ] | |
-| 25. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
-| 26. [Did Some Regex Crosswords](miscellaneous/did-some-regex-crosswords.md) | 2020-09-21 |
-| 27. [Spent Time on Virtual Talk and Web Security](miscellaneous/spent-time-on-virtual-talk-and-web-security.md) | 2020-09-27 |
-| 28. [Mentally Regrouped](miscellaneous/mentally-regrouped.md) | 2020-10-26 |
+| 26. [Miscellaneous Code Stuff](miscellaneous/miscellaneous-code-stuff.md) | 2020-08-30 |
+| 27. [Did Some Regex Crosswords](miscellaneous/did-some-regex-crosswords.md) | 2020-09-21 |
+| 28. [Spent Time on Virtual Talk and Web Security](miscellaneous/spent-time-on-virtual-talk-and-web-security.md) | 2020-09-27 |
+| 29. [Mentally Regrouped](miscellaneous/mentally-regrouped.md) | 2020-10-26 |
 | **Projects** [ 1 Tils ] | |
-| 29. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
+| 30. [Identified Possible Projects to Complete](projects/identified-possible-projects-to-complete.md) | 2020-07-31 |
 | **Python** [ 11 Tils ] | |
-| 30. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
-| 31. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
-| 32. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
-| 33. [Looked At Real Python Tutorials](python/looked-at-real-python-tutorials.md) | 2020-09-28 |
-| 34. [Completing Some Real Python Project](python/completing-some-real-python-projects.md) | 2020-09-30 |
-| 35. [Worked Through Python Problems and a Real Python Tutorial](python/worked-through-python-problems-and-a-real-python-tutorial.md) | 2020-10-09 |
-| 36. [Did a Ton of Stuff](python/did-a-ton-of-stuff.md) | 2020-10-13 |
-| 37. [Python Standard Library, Real Python, Automate the Boring Stuff](python/python-standard-library-real-python-automate-the-boring-stuff.md) | 2020-10-15 |
-| 38. [Scraper Blog Post, Real Python Tutorials, and Project Stuff](python/scraper-blog-post-real-python-tutorials-and-project-stuff.md) | 2020-10-27 |
-| 39. [Finished Taco John's Scraper blog Post](python/finished-taco-johns-scraper-blog-post.md) | 2020-10-28 |
-| 40. [Getting Back to Projects](python/getting-back-to-projects.md) | 2020-11-12 |
+| 31. [Looked Through Python Standard Library to Apply TIL Learning](python/looked-through-python-standard-library-to-apply-til-learning.md) | 2020-07-28 |
+| 32. [Got to Know the Python Standard Library Better and Read Serious Python](python/got-to-know-the-python-standard-library-better-and-read-serious-python.md) | 2020-09-07 |
+| 33. [Solved Code Problems in Python](python/solved-code-problems-in-python.md) | 2020-09-10 |
+| 34. [Looked At Real Python Tutorials](python/looked-at-real-python-tutorials.md) | 2020-09-28 |
+| 35. [Completing Some Real Python Project](python/completing-some-real-python-projects.md) | 2020-09-30 |
+| 36. [Worked Through Python Problems and a Real Python Tutorial](python/worked-through-python-problems-and-a-real-python-tutorial.md) | 2020-10-09 |
+| 37. [Did a Ton of Stuff](python/did-a-ton-of-stuff.md) | 2020-10-13 |
+| 38. [Python Standard Library, Real Python, Automate the Boring Stuff](python/python-standard-library-real-python-automate-the-boring-stuff.md) | 2020-10-15 |
+| 39. [Scraper Blog Post, Real Python Tutorials, and Project Stuff](python/scraper-blog-post-real-python-tutorials-and-project-stuff.md) | 2020-10-27 |
+| 40. [Finished Taco John's Scraper blog Post](python/finished-taco-johns-scraper-blog-post.md) | 2020-10-28 |
+| 41. [Getting Back to Projects](python/getting-back-to-projects.md) | 2020-11-12 |
 | **React** [ 3 Tils ] | |
-| 41. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
-| 42. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
-| 43. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
+| 42. [Worked Through a React Video Tutorial](react/worked-through-a-react-video-tutorial.md) | 2020-09-02 |
+| 43. [Worked Through a Django and React Tutorial](react/worked-through-a-django-and-react-tutorial.md) | 2020-09-03 |
+| 44. [Reached the Second Milestone of Django and React Tutorial](react/reached-the-second-milestone-of-django-react-tutorial.md) | 2020-09-04 |
 | **Rest** [ 2 Tils ] | |
-| 44. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
-| 45. [Week of Rest During Election](rest/week-of-rest-during-election.md) | 2020-11-07 |
+| 45. [Week of Rest](rest/week-of-rest.md) | 2020-08-22 |
+| 46. [Week of Rest During Election](rest/week-of-rest-during-election.md) | 2020-11-07 |
 | **Til** [ 3 Tils ] | |
-| 46. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
-| 47. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
-| 48. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
+| 47. [Worked on TIL Blog Post](til/worked-on-til-blog-post.md) | 2020-07-24 |
+| 48. [Finished Most of TIL Blog Post](til/finished-most-of-til-blog-post.md) | 2020-07-25 |
+| 49. [Finished TIL Blog Post, Looked at GitHub READMEs, and argparse](til/finished-til-blog-post-looked-at-github-readmes-and-argparse.md) | 2020-07-26 |
 
 
 ## License
