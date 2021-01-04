@@ -51,7 +51,7 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | 31. [Did More Hacktoberfest Stuff](hacktoberfest/did-more-hacktoberfest-stuff.md) | 2020-10-25 |
 | **Javascript** [ 2 Tils ] | |
 | 32. [Getting to Know JavaScript Better](javascript/getting-to-know-javascript-better.md) | 2020-08-24 |
-| 33. [Mozilla CSS, HTMl, JavaScript, APIs Docs](javascript/mozilla-css-html-javascript-apis-docs.md) | 2020-11-28 |
+| 33. [Mozilla CSS, HTML, JavaScript, APIs Docs](javascript/mozilla-css-html-javascript-apis-docs.md) | 2020-11-28 |
 | **Leetcode** [ 3 Tils ] | |
 | 34. [Started Using LeetCode](leetcode/started-using-leetcode.md) | 2020-08-25 |
 | 35. [Working Through Leetcode Problems](leetcode/working-through-leetcode-problems.md) | 2020-09-20 |
