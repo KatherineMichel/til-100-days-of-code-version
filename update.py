@@ -93,7 +93,7 @@ def main():
 
     tweet = status + " (auto-tweeted by my TIL bot)"
     print(tweet)
-    twitter.update_status(status=tweet)
+    # twitter.update_status(status=tweet)
 
 
 def read_files(file_path):
