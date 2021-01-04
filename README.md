@@ -26,8 +26,8 @@ See my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfo
 | **Design** [ 10 Tils ] | |
 | 9. [Learned About CSS Grid, Flexbox, Tailwind CSS, SVG](design/learned-about-css-grid-flexbox-tailwind-css-svg.md) | 2020-11-26 |
 | 10. [Frontend Master's Bootcamp](design/frontend-masters-bootcamp.md) | 2020-11-30 |
-| 11. [Frontend Master's Bootcamp HTML Forms](design/frontend-masters-bootcamp-html-forms.md) | 2020-12-06 |
-| 12. [Frontend Master's CSS](design/frontend-masters-css.md) | 2020-12-14 |
+| 11. [Frontend Master's Bootcamp- HTML Forms](design/frontend-masters-bootcamp-html-forms.md) | 2020-12-06 |
+| 12. [Frontend Master's Bootcamp- CSS](design/frontend-masters-bootcamp-css.md) | 2020-12-14 |
 | 13. [Frontend Master's Bootcamp- Flexbox](design/frontend-masters-bootcamp-flexbox.md) | 2020-12-19 |
 | 14. [Frontend Master's Bootcamp- JavaScript](design/frontend-masters-bootcamp-javascript.md) | 2020-12-21 |
 | 15. [Frontend Master's Bootcamp- JavaScript and Accessibility](design/frontend-masters-bootcamp-javascript-and-accessibility.md) | 2020-12-22 |
