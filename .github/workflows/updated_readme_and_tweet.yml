@@ -15,10 +15,6 @@ jobs:
     steps:
     # Make the repo available
     - uses: actions/checkout@v2
-      with:
-       persist-credentials: false
-       fetch-depth: 0  
-       force: true
     - name: Set up Python 3.8
       # Install Python 3.8
       uses: actions/setup-python@v1
